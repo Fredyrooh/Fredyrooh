@@ -1,15 +1,15 @@
-<h1 align="center">Hi my name is Fredy! 👋 </h1>
+<h1 align="center">Hi i'm Fredy! 👋 </h1>
 
 ## About Me:
 <div>
   <h4>Español</h4>
   <h4> Bienvenido a mi GitHub!
     <br>
-       Soy Full-Stack Web Developer con una gran pasión por el desarrollo Front-End! 
+     JavaScript FullStack developer  
     <br>
-       Me encanta crear cosas nuevas de forma creativa, tambien me interesa aprender nuevos idiomas, y adquirir nuevos conocimientos, es un desafio para mi.
+       I am passionate about technology and love to learn new technologies.
     <br>
-      Queres contactarme o conocerme más? Te dejo mis redes de contacto más abajo.
+      my contact networks
   </h4>
 </div>
 
