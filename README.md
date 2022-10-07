@@ -13,7 +13,7 @@
 </div>
 
 ## My Skills:
-<div align='center'>
+<div align='rigth'>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="35" width="35" ></a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="35" width="35" >
   <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="35" width="35" >
@@ -28,8 +28,3 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
   </div>
     
-    
-<hr>
-    <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredy-quiroga&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fredy" /></p>
-    <br>
