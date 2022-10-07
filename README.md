@@ -31,5 +31,5 @@
     
 <hr>
     <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-jose-horisberger&show_icons=true&theme=dracula&locale=en&layout=compact" alt="juan-jose-horisberger" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredy-quiroga&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fredy" /></p>
     <br>
