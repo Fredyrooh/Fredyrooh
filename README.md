@@ -8,7 +8,12 @@
     <br>
        I am passionate about technology and love to learn new technologies.
     <br>
-      my contact networks
+<p> 👨‍💻 All of my projects are available at <a href="https://portfolio-prototype-gray.vercel.app/" target="_blank" >Portfolio </a> </p>
+<p> 📫Reach at <a href="https://gmail.com">fredyrooh@gmail.com </a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/fredyrooh" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80110392/210498286-920fb2df-fce4-405c-8880-82a5453051dd.svg" alt="fredyrooh" width="40" />
   </h4>
 </div>
 
